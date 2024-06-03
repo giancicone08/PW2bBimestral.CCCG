@@ -1,0 +1,11 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+body{
+
+}
+#busca{
+    
+    background: #000 url(../img/search.png) no-repeat left center;
+    text-indent: 20px;
+}
